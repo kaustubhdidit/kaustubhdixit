@@ -59,7 +59,7 @@ const HeroBanner = () => {
                         </li>
                         <a
                             className="cursor-pointer px-5 py-2 hover:bg-slate-900 transition active:scale-90 rounded-lg"
-                            href="https://drive.google.com/file/d/1FwJUx1WihWI2Awhu1Zj9y2CGWi4O9-tz/view"
+                            href="https://drive.google.com/file/d/1FwJUx1WihWI2Awhu1Zj9y2CGWi4O9-tz/view?usp=share_link"
                         >
                             Resume
                         </a>
